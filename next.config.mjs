@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: '/SE-SPARTA-HMIF',
-    assetPrefix: '/SE-SPARTA-HMIF/',
+    basePath: '/se-sparta',
+    assetPrefix: '/se-sparta/',
   };
   
   export default nextConfig;
