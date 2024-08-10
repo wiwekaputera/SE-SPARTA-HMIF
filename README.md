@@ -33,6 +33,4 @@ Kesulitan yang dihadapi adalah proses belajar tools baru yang dipakai pada proje
 
 ## Identitas
 
-Nama: I Made Wiweka Putera
-NIM: 19623279
-Klan: T
+Nama: I Made Wiweka Putera  NIM: 19623279  Klan: T
