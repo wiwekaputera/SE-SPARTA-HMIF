@@ -1,4 +1,7 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
-
-export default nextConfig;
+const nextConfig = {
+    basePath: '/SE-SPARTA-HMIF',
+    assetPrefix: '/SE-SPARTA-HMIF/',
+  };
+  
+  export default nextConfig;
